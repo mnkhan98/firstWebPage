@@ -1,0 +1,35 @@
+h1 {
+    color: rgb(19, 109, 219);
+    font-size: 50px;
+    border-bottom: 5px solid rgb(19, 109, 219);
+    padding-bottom: 20px;
+    font-family: 'Copperplate';
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 50px;
+}
+
+ul{
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  color:rgb(19, 109, 219);
+  list-style-position: inside;
+}
+
+body{
+    background-color: #FFF;
+    border-bottom: rgb(19, 109, 219) 5px solid;
+}
+
+.centerAlign {
+    text-align: center;
+}

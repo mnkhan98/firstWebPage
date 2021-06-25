@@ -33,3 +33,9 @@ body{
 .centerAlign {
     text-align: center;
 }
+
+.row div{
+    background-color: aqua;
+    background: aqua;
+    color: brown;
+}

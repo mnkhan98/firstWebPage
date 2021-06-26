@@ -1,0 +1,48 @@
+.home{
+    border-bottom: 1px solid gold;
+    background: rgb(2, 2, 2);
+    padding: 20px;
+    text-align: center;
+    color: snow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    
+.bookAppointment{
+    border-bottom: 1px solid gold;
+    background: rgb(2, 2, 2);
+    padding: 20px;
+    text-align: center;
+    color: snow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}    
+
+.shop{
+    border-bottom: 1px solid gold;
+    background: rgb(2, 2, 2);
+    padding: 20px;
+    text-align: center;
+    color: snow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.search{
+    border-bottom: 1px solid gold;
+    background: rgb(2, 2, 2);
+    padding: 20px;
+    text-align: center;
+    color: snow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cart{
+    border-bottom: 1px solid gold;
+    background: rgb(2, 2, 2);
+    padding: 20px;
+    text-align: center;
+    color: snow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+      background: rgb(3, 3, 3);
+}

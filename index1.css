@@ -43,6 +43,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.fas:hover{
+    color:gold
+}
+
 body{
       background: rgb(3, 3, 3);
 }

@@ -14,6 +14,7 @@
     text-align: center;
     color: snow;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor:pointer
 }    
 
 .shop{
@@ -49,4 +50,36 @@
 
 body{
       background: rgb(3, 3, 3);
+      color: snow
 }
+
+.header{
+    box-shadow: 0 4px 8px 0 gold, 0 6px 20px 0 gold;
+}
+
+#modal-mask {
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 80%;
+    justify-content: center;
+    align-items: center;
+    display: none;
+  }
+
+  #modal {
+    width: 900px;
+    height: 600px;
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    box-shadow: 0 4px 8px 0 gold, 0 6px 20px 0 gold;
+    text-align: center;
+    padding-top: 30px;
+  } 
+
+  #modal-close{
+      margin-top: 450px;
+  }
